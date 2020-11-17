@@ -1,2 +1,2 @@
 # Todo-Page3
-https://github.com/Akshaay9/Todo-Page3/settings
+https://akshaay9.github.io/Todo-Page3/ngs
